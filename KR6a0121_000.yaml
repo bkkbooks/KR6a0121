@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0121/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說月喻經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0121.xml
+    old_id: T02n0121
+hash: sha256:318cbf0c88d571e3f79073084ab744533460927395bdb0f197fbb4cbdd85cf09
