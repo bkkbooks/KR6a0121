@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0121/v1
 canonical_location: https://kanripo.org/bkk/KR6a0121/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說月喻經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0121_000.yaml, hash: 'sha256:318cbf0c88d571e3f79073084ab744533460927395bdb0f197fbb4cbdd85cf09'}
-  - {seq: 1, filename: KR6a0121_001.yaml, hash: 'sha256:2fb0a6b86fde071e540fc2edfc17f28b7a14cfcfc772a6591be8940e12a2bc66'}
+  - {seq: 1, filename: KR6a0121_001.yaml, hash: 'sha256:9bb73e0709c55317854bb525aae6e80b50c27b494011bb227d7156a9df669e83'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0121_000.markers.yaml, hash: 'sha256:4f4e19def01d773053f24e5bba3d9d69ddc83ee9a14d2cc436a556b2e18674f3'}
-  - {seq: 1, role: markers, filename: assets/KR6a0121_001.markers.yaml, hash: 'sha256:1b3b885d8e42f06ea04ebd1f28059175564750454963341e61db8a0f0fb11fe0'}
+  - {seq: 1, role: markers, filename: assets/KR6a0121_001.markers.yaml, hash: 'sha256:01cdab86e0111f42de15a4755644b0cfb0ab798afa67b702ba89e7ac67017822'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說月喻經
   type: juan
   level: 1
-hash: sha256:5f5453aa74fb2cbdf242a2c99223186331f82a7e03df6028f1d10b955cf6328c
+hash: sha256:b683fa814ffca83cfe99e2927fbcc786738e1dd6732f33120eedc998dce254e3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
